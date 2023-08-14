@@ -22,7 +22,7 @@ Kommando til etablering af et NextJS projekt.
 ```
 npx create-next-app@latest
 ```
-Her vil man blive mødt af en række spørgsmål - vi har et udgangspunkt til underevisning, men man må hjertens gerne eksperimentere.
+Her vil man blive mødt af en række spørgsmål - vi har et udgangspunkt til undervisning, men man må hjertens gerne eksperimentere.
 
 Vores udgangspunkt er:     
 
