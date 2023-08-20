@@ -3,7 +3,7 @@
 
 ## Kom igang.
 
-Der er to store ting vi skal lære.
+Der er to store ting vi skal lære..
 
 Om NextJS og React.
 
