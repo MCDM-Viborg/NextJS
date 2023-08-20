@@ -29,9 +29,29 @@ Designet der vil blive refereret til kan findes her.
 
 * ["Smuk nu" design XD-dokument](https://xd.adobe.com/view/38d00bea-2b1e-4d2c-afe2-d2d9274e6a39-6d83/) 
 
+### Video Tutorials (NB: Midlertidigt - vil ændre sig.)
+
+Vi har/vil lave tutorials og gennemgang af væsentlige emner som video.
+Men de kan ikke stå alene! - Undervisningen vil række udover disse videoer.
+
+Men dette dokument og video tutorials vil følges nogenlunde ad.
+
+[https://mcdm-viborg.github.io/NextJS/](https://mcdm-viborg.github.io/NextJS/)
 
 
-### Installation
+## Og så til sagen!
+
+Vi starter med at få NextJS til at køre på jeres maskine.
+
+### Forudsætninger.
+
+* NodeJS installeret vi benytter NPM
+* Visual Code
+* Lidt viden om Terminalen
+    * I skal kunne finde den mappe i gerne vil installere jeres projekter i. 
+    * Se evt: [Video om brug af terminalen](https://www.youtube.com/watch?v=3IZ08ALzgDk)
+
+### Installation.
 
 Vær opmærksom på at du vil oprette en mappe med dit projekt, I den mappe du køre denne kommando i terminalen.
 
