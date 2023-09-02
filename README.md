@@ -5,13 +5,13 @@
 
 Der er to store ting vi skal lære..
 
-Om NextJS og React.
+**NextJS** *og* **React**.
 
 Vi starter med at lære om **NextJS** og dens opbygning. Når vi skal til at lave indhold til vores sider arbejder vi med **React** i **NextJS frameworket**.
 
 Vi vil med tiden hoppe imellem disse to hele tiden men huske på at de har to "forskellige" formål.
 
-Den ene er orkester lederen (nextJS) den anden er selve musikerne i orkesteret (React).
+Den ene er orkesterlederen (*NextJS*) den anden er selve musikerne i orkesteret (*React*).
 
 ## Primær Dokumentation
 
@@ -181,6 +181,16 @@ npm run lint    <- Undersøger projektet for lint fejl. Kode der ikke lever op t
 
 # 2.2 Struktur.
 
+Nu kan vi installere og starte vore NextJS framework. Så skal vi se på hvad et projekt indeholder som udgangspunkt.
+
+
+## 2.2.1 Filer og Opsætning
 Strukturen i next er vigtig. Det er både godt og skidt.
 
 Det hjælper os med rigtig mange ting, men det gør også at du skal følge lidt regler.
+
+*Referencer:*
+* https://nextjs.org/docs/getting-started/project-structure
+* https://nextjs.org/docs/app/api-reference/file-conventions
+
+Ovenstående referencer beskriver flere af de "regler" for filer og struktur som findes i NextJS. Vi kommer til løbende af blive klogere og klogere på disse regler og i første omgang koncentrere vi os om det der gør os isatnd til at udvikle applikationer i React.
