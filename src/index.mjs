@@ -2,7 +2,7 @@ const menu = {
 
     tmpl : () => {
         return `<nav class="navigation">
-            <a href="/">Forside</a>
+            <a href="../">Forside</a>
             <a href="./video_01.html">Video 01</a>
             <a href="./video_02.html">Video 02</a>
             <a href="./video_03.html">Video 03</a>
