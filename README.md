@@ -1,7 +1,11 @@
 # NextJS - MCDM - Viborg.
 
-
 # 1. Kom igang.
+
+
+**Video**   
+[Start med denne video](https://mcdm-viborg.github.io/NextJS/?chapter=chapter-1).
+
 
 Der er to store ting vi skal lære..
 
@@ -29,7 +33,7 @@ Designet der vil blive refereret til kan findes her.
 
 * ["Smuk nu" design XD-dokument](https://xd.adobe.com/view/38d00bea-2b1e-4d2c-afe2-d2d9274e6a39-6d83/) 
 
-## Video Tutorials (NB: Midlertidigt - vil ændre sig.)
+## Video til denne dokumentation.
 
 Vi har/vil lave tutorials og gennemgang af væsentlige emner som video.
 Men de kan ikke stå alene! - Undervisningen vil række udover disse videoer.
@@ -52,6 +56,9 @@ Vi starter med at få NextJS til at køre på jeres maskine.
     * Se evt: [Video om brug af terminalen](https://www.youtube.com/watch?v=3IZ08ALzgDk)
 
 ## 2.1 Installation.
+
+**Video**   
+[Start med denne video - Installation](https://mcdm-viborg.github.io/NextJS/?chapter=chapter-2).
 
 Vær opmærksom på at du vil oprette en mappe med dit projekt, I den mappe du køre denne kommando i terminalen.
 
@@ -98,6 +105,9 @@ Dette giver et fælles udgangspunkt for udvikling og vi arbejder samtidigt med d
 Nu skal vi åbne det projekt i visual code og vi er klar til at udvikle.
 
 ## 2.2 Byg, Start og udvikling af vores NEXT projekt
+
+**Video**       
+[Start med denne video - Byg, Start...](https://mcdm-viborg.github.io/NextJS/?chapter=chapter-3).
 
 Alle nextjs projekter skal "bygges" før de kan udvikles og afleveres.
 
@@ -180,6 +190,8 @@ npm run lint    <- Undersøger projektet for lint fejl. Kode der ikke lever op t
 ```
 
 # 2.2 Struktur.
+**Video**       
+[Start med denne video - Fil struktur i et NextJS projekt](https://mcdm-viborg.github.io/NextJS/?chapter=chapter-4).
 
 Nu kan vi installere og starte vore NextJS framework. Så skal vi se på hvad et projekt indeholder som udgangspunkt.
 
@@ -194,3 +206,23 @@ Det hjælper os med rigtig mange ting, men det gør også at du skal følge lidt
 * https://nextjs.org/docs/app/api-reference/file-conventions
 
 Ovenstående referencer beskriver flere af de "regler" for filer og struktur som findes i NextJS. Vi kommer til løbende af blive klogere og klogere på disse regler og i første omgang koncentrere vi os om det der gør os isatnd til at udvikle applikationer i React.
+
+...todo
+
+# 2.3 Struktur og Boilertemplate
+
+[Start med denne video - Mere om struktur imens vi starter en ren NextJS boilerplate vi kan bruge til vores projekter.](https://mcdm-viborg.github.io/NextJS/?chapter=chapter-5).
+
+...todo
+
+# 2.4 Struktur og Mere Boilertemplate
+
+[Start med denne video - Vi bygger vores boilerplate færdig imens vi lære lidt om struktur og react.](https://mcdm-viborg.github.io/NextJS/?chapter=chapter-6).
+
+...todo
+
+# 2.5 Struktur og Mere Boilertemplate
+
+[Projektet på GitHub så vi kan holde det opdateret og hente den når vi skal starte et nyt projekt.](https://mcdm-viborg.github.io/NextJS/?chapter=chapter-7).
+
+...todo
