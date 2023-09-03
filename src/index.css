@@ -1,5 +1,17 @@
+body {
+    margin: 0 auto;
+    padding : 20px;
+}
 .navigation {
 
-    border: solid 1px red;
+    border-bottom: solid 1px #000;
+    padding : 20px;
 
 }
+
+.navigation a{
+
+    color : #000;
+    
+}
+

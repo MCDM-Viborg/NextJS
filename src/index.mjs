@@ -7,7 +7,7 @@ const menu = {
         let path = (location.host === 'mcdm-viborg.github.io') ? location.origin + '/NextJS/' : '/';
 
         return `<nav class="navigation">
-            <a href="${path}">Forside</a>
+            <a href="${path}">Index</a>
             <a href="${path}video/video_01.html">Video 01</a>
             <a href="${path}video/video_02.html">Video 02</a>
             <a href="${path}video/video_03.html">Video 03</a>
